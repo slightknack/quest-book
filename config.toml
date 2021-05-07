@@ -7,3 +7,4 @@ build_search_index = true
 highlight_code = true
 
 [extra]
+book_number_chapters = false
