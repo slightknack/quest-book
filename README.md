@@ -1,5 +1,5 @@
 # Stellar Quest Solving in Python
-# Contributing Guide
+## Contributing Guide
 
 Hey, if you're reading this it's because I assume you want to help. Welcome!
 
@@ -11,7 +11,7 @@ The structure of this repository is pretty simple:
     - each subchapter is a markdown file with some *frontmatter*
 - .github/workflows is a GitHub action to automatically build and deploy the book
 
-## What is *Frontmatter*
+### What is *Frontmatter*
 Frontmatter is TOML-formatted metadata about an article. It should look like this for chapters:
 
 ```toml
