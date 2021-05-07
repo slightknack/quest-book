@@ -1,6 +1,6 @@
 +++
 title = "What is Stellar?"
-weight = 0
+weight = 1
 +++
 
 - brief history

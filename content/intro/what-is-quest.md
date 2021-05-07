@@ -1,6 +1,6 @@
 +++
 title = "What is Quest?"
-weight = 1
+weight = 2
 +++
 
 - how did it come about
