@@ -29,3 +29,8 @@ title = "Subchapter Title"
 weight = 2 # subchapter number, e.g. Subchapter 2
 +++
 ```
+
+That's all! 
+
+## Prior Work
+A collection of solutions exists [here](https://github.com/MatejMecka/Stellar-Quest-Python)
